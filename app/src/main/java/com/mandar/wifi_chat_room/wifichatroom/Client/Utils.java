@@ -1,13 +1,11 @@
 package com.mandar.wifi_chat_room.wifichatroom.Client;
 
-/**
- * Created by mandar on 01-04-2018.
- */
+
 
 import java.io.*;
 import java.net.*;
 import java.util.*;
-//import org.apache.http.conn.util.InetAddressUtils;
+
 
 public class Utils {
 
@@ -96,7 +94,7 @@ public class Utils {
 
     /**
      * Get IP address from first non-localhost interface
-     * @param ipv4  true=return ipv4, false=return ipv6
+     * @param //ipv4  true=return ipv4, false=return ipv6
      * @return  address or empty string
      */
     public static String getIPAddress(boolean useIPv4) {

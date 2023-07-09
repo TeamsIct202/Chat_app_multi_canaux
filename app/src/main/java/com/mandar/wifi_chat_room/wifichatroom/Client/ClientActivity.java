@@ -18,9 +18,7 @@ import android.view.LayoutInflater;
 
 import com.mandar.wifi_chat_room.wifichatroom.R;
 
-/**
- * Created by mandar on 08-04-2018.
- */
+
 
 public class ClientActivity extends AppCompatActivity {
     Button send_but;

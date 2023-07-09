@@ -1,8 +1,6 @@
 package com.mandar.wifi_chat_room.wifichatroom.Client;
 
-/**
- * Created by mandar on 07-04-2018.
- */
+
 
 public class ChatMessage {
     public boolean left;
