@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/f710ef0404365322c05aa4d0c29cdf8e/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/fofou_moise/.gradle/caches/transforms-3/1ca6ced62fdb7922a3f79a6c62d1b834/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/88fba3806e88f524813283e71ca4ca91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/75ae219dfa19cfe8597311fd0e0b9912/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /home/fofou_moise/.gradle/caches/transforms-3/82656b3cc18986554a0d581df0c98747/transformed/relinker-1.4.3/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/fofou_moise/.gradle/caches/transforms-3/80547924aa74128d485401711f2e2de4/transformed/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/5bb93748affc70eb2f84b244a3e8729d/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fofou_moise/.gradle/caches/transforms-3/8db4716518b48ff8d1aabb502f46c281/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/fofou_moise/.gradle/caches/transforms-3/c75a69981c386fdcbd2e58a10270ac99/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/43556b84a29d39f974b9e49acd2000a0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/b88ae49ebdf0f7a30a9af5806205f1c1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/99fddea91afbb599c7d2cfc2d2711b65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/085c9e1ab1a5cb84815e9bb589c0d23e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/b319b6216bbb86b54ac8891f7d3d8862/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/bc84280ca7eaaafb304fa6075afc1631/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/2bf8d4a76ab15b31afb01924e505b49f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/fcebdc11fb8ca5e9a1b16884efaa11b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/37b7b922cf0c0f4d17f189b3e19e8009/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/bdbcbebb0c612902f22d9d43e988a2ee/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/a53cbd606d0a6b56498cd4dc6385d5f3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/6cbd1a8e0e750d0bfb8bd01cdf1b448e/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/e5d6d730bc38e9129103bcf86f65976d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/7bc72cd99faf1deba213fe8f580878a4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/eab63ba4f812469f5bfa749586642edd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/1a84f603e1eb65d5989499fc6d47babb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/7736e19a65b5ebb9a44ba3437b9182d8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/d5672d06788986c0de0aef09be5d0cca/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/033ef98a170b43bfdc2ba331347974df/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f8972efefc3e1ed90435447d29b9a0d7/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/0d0490e46341530c8bad39872804b2b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fofou_moise/.gradle/caches/transforms-3/36e1a5f8a92ee1b2531c693299d20507/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/0c03439f1c959895b4a90b6a9dd13407/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fofou_moise/.gradle/caches/transforms-3/d480919f62a6f0f17dfef057e62b2f42/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f2c9b473cc4a82a89329b77f5b105a24/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/abe757a0c766e6b6583925929ae741be/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/2d57b657682ae71b1225996da42de2b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/94bc9ffa0e7082e504102196395deea4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/fofou_moise/.gradle/caches/transforms-3/84c61be9483f97b340bd8f01ab4bacde/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_SMS
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:9:22-67
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:10:22-69
+application
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.android.material:material:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/f710ef0404365322c05aa4d0c29cdf8e/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/f710ef0404365322c05aa4d0c29cdf8e/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/fofou_moise/.gradle/caches/transforms-3/1ca6ced62fdb7922a3f79a6c62d1b834/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/fofou_moise/.gradle/caches/transforms-3/1ca6ced62fdb7922a3f79a6c62d1b834/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/0d0490e46341530c8bad39872804b2b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/0d0490e46341530c8bad39872804b2b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:18:9-48
+	android:dataExtractionRules
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:13:9-65
+activity#com.example.sms_group3.MainActivity
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:exported
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.example.sms_group3.ConversationActivity
+ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml:30:19-55
+uses-sdk
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/f710ef0404365322c05aa4d0c29cdf8e/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/f710ef0404365322c05aa4d0c29cdf8e/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/fofou_moise/.gradle/caches/transforms-3/1ca6ced62fdb7922a3f79a6c62d1b834/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/fofou_moise/.gradle/caches/transforms-3/1ca6ced62fdb7922a3f79a6c62d1b834/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/88fba3806e88f524813283e71ca4ca91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/88fba3806e88f524813283e71ca4ca91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/75ae219dfa19cfe8597311fd0e0b9912/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/fofou_moise/.gradle/caches/transforms-3/75ae219dfa19cfe8597311fd0e0b9912/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /home/fofou_moise/.gradle/caches/transforms-3/82656b3cc18986554a0d581df0c98747/transformed/relinker-1.4.3/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /home/fofou_moise/.gradle/caches/transforms-3/82656b3cc18986554a0d581df0c98747/transformed/relinker-1.4.3/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/fofou_moise/.gradle/caches/transforms-3/80547924aa74128d485401711f2e2de4/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/fofou_moise/.gradle/caches/transforms-3/80547924aa74128d485401711f2e2de4/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/5bb93748affc70eb2f84b244a3e8729d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/5bb93748affc70eb2f84b244a3e8729d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fofou_moise/.gradle/caches/transforms-3/8db4716518b48ff8d1aabb502f46c281/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fofou_moise/.gradle/caches/transforms-3/8db4716518b48ff8d1aabb502f46c281/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/fofou_moise/.gradle/caches/transforms-3/c75a69981c386fdcbd2e58a10270ac99/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/fofou_moise/.gradle/caches/transforms-3/c75a69981c386fdcbd2e58a10270ac99/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/43556b84a29d39f974b9e49acd2000a0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/43556b84a29d39f974b9e49acd2000a0/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/b88ae49ebdf0f7a30a9af5806205f1c1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/b88ae49ebdf0f7a30a9af5806205f1c1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/99fddea91afbb599c7d2cfc2d2711b65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/99fddea91afbb599c7d2cfc2d2711b65/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/085c9e1ab1a5cb84815e9bb589c0d23e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/085c9e1ab1a5cb84815e9bb589c0d23e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/b319b6216bbb86b54ac8891f7d3d8862/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/b319b6216bbb86b54ac8891f7d3d8862/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/bc84280ca7eaaafb304fa6075afc1631/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/bc84280ca7eaaafb304fa6075afc1631/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/2bf8d4a76ab15b31afb01924e505b49f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/2bf8d4a76ab15b31afb01924e505b49f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/fcebdc11fb8ca5e9a1b16884efaa11b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/fcebdc11fb8ca5e9a1b16884efaa11b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/37b7b922cf0c0f4d17f189b3e19e8009/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/37b7b922cf0c0f4d17f189b3e19e8009/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/bdbcbebb0c612902f22d9d43e988a2ee/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/bdbcbebb0c612902f22d9d43e988a2ee/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/a53cbd606d0a6b56498cd4dc6385d5f3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/a53cbd606d0a6b56498cd4dc6385d5f3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/6cbd1a8e0e750d0bfb8bd01cdf1b448e/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/6cbd1a8e0e750d0bfb8bd01cdf1b448e/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/e5d6d730bc38e9129103bcf86f65976d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/e5d6d730bc38e9129103bcf86f65976d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/7bc72cd99faf1deba213fe8f580878a4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/7bc72cd99faf1deba213fe8f580878a4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/eab63ba4f812469f5bfa749586642edd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/fofou_moise/.gradle/caches/transforms-3/eab63ba4f812469f5bfa749586642edd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/1a84f603e1eb65d5989499fc6d47babb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/1a84f603e1eb65d5989499fc6d47babb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/7736e19a65b5ebb9a44ba3437b9182d8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/7736e19a65b5ebb9a44ba3437b9182d8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/d5672d06788986c0de0aef09be5d0cca/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/d5672d06788986c0de0aef09be5d0cca/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/033ef98a170b43bfdc2ba331347974df/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/033ef98a170b43bfdc2ba331347974df/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f8972efefc3e1ed90435447d29b9a0d7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f8972efefc3e1ed90435447d29b9a0d7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/0d0490e46341530c8bad39872804b2b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/0d0490e46341530c8bad39872804b2b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fofou_moise/.gradle/caches/transforms-3/36e1a5f8a92ee1b2531c693299d20507/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fofou_moise/.gradle/caches/transforms-3/36e1a5f8a92ee1b2531c693299d20507/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/0c03439f1c959895b4a90b6a9dd13407/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/fofou_moise/.gradle/caches/transforms-3/0c03439f1c959895b4a90b6a9dd13407/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fofou_moise/.gradle/caches/transforms-3/d480919f62a6f0f17dfef057e62b2f42/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fofou_moise/.gradle/caches/transforms-3/d480919f62a6f0f17dfef057e62b2f42/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f2c9b473cc4a82a89329b77f5b105a24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/f2c9b473cc4a82a89329b77f5b105a24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/abe757a0c766e6b6583925929ae741be/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/abe757a0c766e6b6583925929ae741be/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/2d57b657682ae71b1225996da42de2b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/2d57b657682ae71b1225996da42de2b4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/94bc9ffa0e7082e504102196395deea4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fofou_moise/.gradle/caches/transforms-3/94bc9ffa0e7082e504102196395deea4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/fofou_moise/.gradle/caches/transforms-3/84c61be9483f97b340bd8f01ab4bacde/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/fofou_moise/.gradle/caches/transforms-3/84c61be9483f97b340bd8f01ab4bacde/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		ADDED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fofou_moise/Bureau/projets/sms_group3/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:10.11.1] /home/fofou_moise/.gradle/caches/transforms-3/33fa9490300b52cb6379725613b49de1/transformed/realm-android-library-object-server-10.11.1/AndroidManifest.xml:10:22-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fofou_moise/.gradle/caches/transforms-3/31f250b412471e2f3daf68df6ce71add/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/fofou_moise/.gradle/caches/transforms-3/81b26a10ba945ca03eed6dfe15c976a8/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.sms_group3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.sms_group3.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/fofou_moise/.gradle/caches/transforms-3/b4c00618b8f41a07d9b5d5b3587152d6/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/fofou_moise/.gradle/caches/transforms-3/095ef7efee4e818e63001817aa905247/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
