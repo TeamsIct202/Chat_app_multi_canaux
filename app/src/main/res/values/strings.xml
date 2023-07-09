@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sms_group3</string>
+    <string name="liste_des_conversations">Liste des conversations:</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="message">Message:</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone:</string>
+    <string name="phone_number">Phone number</string>
+    <string name="message1">Message</string>
+    <string name="send">Send</string>
+    <string name="action_new_message">new</string>
+    <string name="envoi">Envoyer</string>
+</resources>
