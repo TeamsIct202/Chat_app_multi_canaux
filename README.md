@@ -1,4 +1,4 @@
-# Wi-Fi-Chat-Room
+# Wifi-chat
 - This is an android application in which you can chat with the peer's when connected to wireless LAN.
 - It uses the concept of Concurrent Server.
 - The Client's send message to the Server which in turn sends it to all other Clients.
